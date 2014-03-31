@@ -1,5 +1,5 @@
 AndroidAdModules
 ===============
 
-Package name of Android advertisement SDKs. 
+Package name of Android advertisement SDKs.  
 The package name can be utilized to detect advertisement modules embedded in Android applications.
